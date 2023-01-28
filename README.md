@@ -1,7 +1,7 @@
 ## Hey!, This is Sabuj Mahonto👋
 
 <p>
-👑 I am Web Developer <br> 
+👑 I am a Web Developer <br> 
 🖊️ Love to write code <br> 
 🎤 Like to share my knowledge </p>
 
