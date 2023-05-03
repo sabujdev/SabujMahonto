@@ -9,9 +9,12 @@
 ## 👨‍💻 Skills & Experience:
 
 ✅ TECHNICAL SKILLS
+
 ✅ Front-End: Next.js, TypeScript, React.js, Redux.js, Zustand, SWR, Axios, Firebase, GSAP, JavaScript (ES6+), Tailwind CSS, Bootstrap, SASS, CSS and HTML
+
 ✅ Back-End: Node.js, Express.js, MongoDB, Mongoose, Prisma and Stripe
-Tools & Technologies: Git & GitHub, Vercel, Render, Netlify, Figma, Adobe Photoshop 
+
+✅ Tools & Technologies: Git & GitHub, Vercel, Render, Netlify, Figma, Adobe Photoshop 
 
 ## ☕ Connect with me!
 
