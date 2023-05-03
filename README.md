@@ -1,19 +1,17 @@
 ## Hey!, This is Sabuj Mahonto👋
 
 <p>
-👑 I am a Web Developer <br> 
+👑 I am a MERN stack developerr <br> 
 🖊️ Love to write code <br> 
 🎤 Like to share my knowledge </p>
 
 
 ## 👨‍💻 Skills & Experience:
 
-✅ ReactJs / NextJs <br>
-✅ Redux / ReduxToolkit / ReactQuery <br>
-✅ JavaScript / TypeScript <br>
-✅ Node.js / Mongodb / Mongoose / Express.js <br>
-✅ HTML5 / CSS3 / SASS / Bootstrap / TailwindCss <br>
-✅ Photoshop / Figma <br>
+✅ TECHNICAL SKILLS
+✅ Front-End: Next.js, TypeScript, React.js, Redux.js, Zustand, SWR, Axios, Firebase, GSAP, JavaScript (ES6+), Tailwind CSS, Bootstrap, SASS, CSS and HTML
+✅ Back-End: Node.js, Express.js, MongoDB, Mongoose, Prisma and Stripe
+Tools & Technologies: Git & GitHub, Vercel, Render, Netlify, Figma, Adobe Photoshop 
 
 ## ☕ Connect with me!
 
