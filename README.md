@@ -5,9 +5,6 @@
 🖊️ Love to write code <br> 
 🎤 Like to share my knowledge </p>
 
-## 🚀 About Me
-
-I’m a Junior Front-End React Developer. I like to focus on coding and learning new techniques.I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.I pride myself on doing quality work and maintain excellent communication. Most of the time I work with ReactJs but some technologies I enjoy working with include ReactJS, NextJs as well as JavaScript.
 
 ## 👨‍💻 Skills & Experience:
 
